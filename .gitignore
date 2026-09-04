@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# PyTorch / models
+*.pt
+*.pth
+
+# Large binaries
+*.dll
+*.lib
+
+# OS
+.DS_Store
